@@ -24,26 +24,75 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v4
-
-      # Install dependencies
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+      - name: initialize conda
+        uses: conda-incubator/setup-miniconda@v3
         with:
-          python-version: "3.11"
-          cache: pip # Implicitly depends upon requirements.txt
+          activate-environment: orcestra_book
+          auto-activate-base: false
+          use-mamba: true
+          miniforge-version: latest
+      - name: restore conda environment from cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CONDA }}/envs
+          key:
+            conda-${{ runner.os }}--${{ runner.arch }}--${{ hashFiles('environment.yml') }}-${{ env.CONDA_CACHE_NUMBER }}
+        id: conda_cache
+      - name: install conda environment
+        run:
+          mamba env update -n orcestra_book -f environment.yml
+        if: steps.conda_cache.outputs.cache-hit != 'true'
+        id: install_conda_env
+      - name: upload conda environment to cache
+        uses: actions/cache/save@v4
+        if: steps.install_conda_env.outcome == 'success'
+        with:
+          path: ${{ env.CONDA }}/envs
+          key:
+            conda-${{ runner.os }}--${{ runner.arch }}--${{ hashFiles('environment.yml') }}-${{ env.CONDA_CACHE_NUMBER }}
+      # Install dependencies
+      #- name: Set up Python 3.11
+      #  uses: actions/setup-python@v5
+      #  with:
+      #    python-version: "3.11"
+      #    cache: pip # Implicitly depends upon requirements.txt
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
+      #- name: Install dependencies
+      #  run: pip install -r environment.yml
+      - name: setting up notebook execution cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            arctic_book/_build/.jupyter_cache
+          key: notebooks-${{ runner.os }}-${{ hashFiles('environment.yml') }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            notebooks-${{ runner.os }}-${{ hashFiles('environment.yml') }}-${{ github.run_id }}-
+            notebooks-${{ runner.os }}-${{ hashFiles('environment.yml') }}-
+      
       # Build the book
       - name: Build the book
         run: jupyter-book build arctic_book
 
-      # Upload the book's HTML as an artifact
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: save execution cache
+        uses: actions/cache/save@v4
+        if: always()
         with:
-          path: "arctic_book/_build/html"
+          path: |
+            arctic_book/_build/.jupyter_cache
+          key: notebooks-${{ runner.os }}-${{ hashFiles('environment.yml') }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Archive build artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: html
+          path: |
+            arctic_book/_build/html
+      
+      # Upload the book's HTML as an artifact
+      #- name: Upload artifact
+      #  uses: actions/upload-pages-artifact@v3
+      #  with:
+      #    path: "arctic_book/_build/html"
 
       # Deploy the book's HTML to GitHub Pages
       - name: Deploy to GitHub Pages
