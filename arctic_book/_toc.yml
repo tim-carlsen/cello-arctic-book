@@ -1,0 +1,48 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: CELLO-Arctic 2025
+    chapters:
+    - file: orbit-opportunities
+      title: Orbit opportunities
+    - file: operation/kingair
+    - file: data
+    - file: platforms
+      sections:
+      - file: platforms/kingair
+      - file: platforms/earthcare
+      - file: platforms/alomar
+  - caption: CELLO-ORCESTRA 2024
+    chapters:
+    - url: https://orcestra-campaign.org/intro.html
+      title: ORCESTRA overview
+    - url: https://orcestra-campaign.org/operation/kingair.html
+      title: Flight plans and reports
+    - url: https://orcestra-campaign.org/data.html
+      title: Data
+    - url: https://orcestra-campaign.org/platforms.html
+      title: Platforms
+  - caption: Flight planning
+    chapters:
+    - url: http://158.39.201.233/meteograms.html
+      title: UiB forecast
+    - url: https://www.windy.com/?59.913,10.739,5
+      title: Windy
+    - url: https://ecvt.csde.esa.int/confluence/display/ECAOPI/Campaign+coordination
+      title: ECVT Confluence
+  - caption: EarthCARE
+    chapters:
+    - url: https://eop-cfi.esa.int/Repo/PUBLIC/DOCUMENTATION/MISSION_DATA/EC_CALVAL_SUPPORT_FILES/Flight_Campaigns_Overpass/KIRUNA/Short-Term/
+      title: Short-term orbit files
+    - url: https://ec-pdgs-dissemination1.eo.esa.int/oads/access/collection
+      title: OADS1
+    - url: https://ec-pdgs-dissemination2.eo.esa.int/oads/access/collection
+      title: OADS2
+  - caption: Useful links
+    chapters:
+    - url: https://cello-merch.myspreadshop.net/
+      title: CELLO merch
+

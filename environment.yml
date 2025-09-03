@@ -1,0 +1,37 @@
+name: orcestra_book
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
+  - aiohttp
+  - cartopy
+  - cmocean
+  - dask>=2023.2.0
+  - docutils
+  - fsspec!=0.9.0 # 0.9.0 has a bug which leads to incomplete reads via HTTP
+  - geopandas
+  - geopy
+  - healpix
+  - icalendar
+  - intake-xarray<=0.7.0
+  - intake>=0.7.0,<2.0.0
+  - ipykernel
+  - ipywidgets
+  - jinja2
+  - jupyter-book>=1,<2
+  - jupyterlab
+  - jupytext
+  - matplotlib
+  - netcdf4
+  - numpy
+  - requests
+  - scipy
+  - simplekml
+  - topojson
+  - xarray
+  - zarr>=2.8.3,<3
+  - pip
+  - pip:
+    - easygems>=0.0.11
+    - orcestra>=0.0.28
+    - pybtex-apa-style
