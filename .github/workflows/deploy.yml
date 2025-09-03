@@ -7,6 +7,7 @@ on:
       - main
 
 env:
+  CONDA_CACHE_NUMBER: 0
   BASE_URL: /${{ github.event.repository.name }}
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
@@ -70,8 +71,10 @@ jobs:
             notebooks-${{ runner.os }}-${{ hashFiles('environment.yml') }}-
       
       # Build the book
-      - name: Build the book
-        run: jupyter-book build arctic_book
+      - name: build book
+        run: |
+          conda info
+          jupyter-book build -W -n --keep-going arctic_book
 
       - name: save execution cache
         uses: actions/cache/save@v4
