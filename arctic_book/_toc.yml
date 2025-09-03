@@ -27,8 +27,8 @@ parts:
       title: Platforms
   - caption: Flight planning
     chapters:
-    - url: http://158.39.201.233/meteograms.html
-      title: UiB forecast
+#    - url: http://158.39.201.233/meteograms.html
+#      title: UiB forecast
     - url: https://www.windy.com/?59.913,10.739,5
       title: Windy
     - url: https://ecvt.csde.esa.int/confluence/display/ECAOPI/Campaign+coordination
