@@ -73,6 +73,7 @@ jobs:
       # Build the book
       - name: build book
         run: |
+          conda activate orcestra_book
           conda info
           jupyter-book build -W -n --keep-going arctic_book
 
