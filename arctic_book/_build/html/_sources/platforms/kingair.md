@@ -26,7 +26,7 @@ The size range for each component of the Hawkeye probe are the following:
 * - **2D-S 50μm**
   - 50 μm - 6.4 mm
 * - **FCDP**
-  - 1 μm - 50 μm
+  - 2 μm - 50 μm
 :::
 ```{figure} ../figures/hawkeye.jpg
 

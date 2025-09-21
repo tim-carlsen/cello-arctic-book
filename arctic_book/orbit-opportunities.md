@@ -44,9 +44,333 @@
 ::::
 
 ## Target orbits
+```{note}
+You can find past weeks at the bottom of the page.
+```
 
 
-### Week 1
+
+### Week 2
+
+::::{grid}
+:gutter: 1
+
+:::{grid-item-card} 
+`M 22/09`
+^^^
+Status: ❌ <br>
+**7494C** <br>
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`T 23/09`
+^^^
+Status: ❌ <br>
+**7509C** <br>
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`W 24/09`
+^^^
+Status: 🤔 <br>
+**7525C** <br>
+{flight-cat}`liquid`
+{flight-cat}`mpc`
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`T 25/09`
+^^^
+Status: 🤔 <br>
+**7540C** <br>
++++
+EC L1? 🤔 
+:::
+
+:::{grid-item-card}
+`F 26/09`
+^^^
+Status: 🤔 <br>
+**7556C** <br>
++++
+EC L1? 🤔 
+:::
+
+
+:::{grid-item-card}
+:class-card: grey-card
+`S 27/09`
+^^^
+Status: ❌ <br>
+7571C
+7572C
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`S 28/09`
+^^^
+Status: 🤔 <br>
+**7587C** <br>
++++
+EC L1? -
+:::
+::::
+
+**Target orbits of the week:**
+```{figure} figures/cello_arctic_orbit_opportunities_week2.png
+---
+name: week2-orbits
+---
+Target orbits for week 2 (in purple), and Saturday orbits (in grey).
+```
+
+
+### Week 3
+
+
+::::{grid}
+:gutter: 1
+
+:::{grid-item-card} 
+`M 29/09`
+^^^
+Status: 🤔 <br>
+**7603C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`T 30/09`
+^^^
+Status: 🤔 <br>
+**7618C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`W 01/10`
+^^^
+Status: 🤔 <br>
+**7634C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`T 02/10`
+^^^
+Status: 🤔 <br>
+**7649C** <br>
++++
+EC L1? 🤔 
+:::
+
+:::{grid-item-card}
+`F 03/10`
+^^^
+Status: 🤔 <br>
+**7665C** <br>
++++
+EC L1? 🤔 
+:::
+
+
+:::{grid-item-card}
+:class-card: grey-card
+`S 04/10`
+^^^
+Status: ❌ <br>
+7680C
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`S 05/10`
+^^^
+Status: 🤔 <br>
+**7696C** <br>
++++
+EC L1? -
+:::
+::::
+
+**Target orbits of the week:**
+```{figure} figures/cello_arctic_orbit_opportunities_week3.png
+---
+name: week3-orbits
+---
+Target orbits for week 3 (in purple), and Saturday orbits (in grey).
+```
+
+### Week 4
+
+::::{grid}
+:gutter: 1
+
+:::{grid-item-card} 
+`M 06/10`
+^^^
+Status: 🤔 <br>
+**7711C** <br>
+**7712C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`T 07/10`
+^^^
+Status: 🤔 <br>
+**7727C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`W 08/10`
+^^^
+Status: 🤔 <br>
+**7743C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`T 09/10`
+^^^
+Status: 🤔 <br>
+**7758C** <br>
++++
+EC L1? 🤔 
+:::
+
+:::{grid-item-card}
+`F 10/10`
+^^^
+Status: 🤔 <br>
+**7774C** <br>
++++
+EC L1? 🤔 
+:::
+
+
+:::{grid-item-card}
+:class-card: grey-card
+`S 11/10`
+^^^
+7789C
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`S 12/10`
+^^^
+Status: 🤔 <br>
+**7805C** <br>
++++
+EC L1? -
+:::
+::::
+
+**Target orbits of the week:**
+```{figure} figures/cello_arctic_orbit_opportunities_week4.png
+---
+name: week4-orbits
+---
+Target orbits for week 4 (in purple), and Saturday orbits (in grey).
+```
+
+
+### Week 5
+
+::::{grid}
+:gutter: 1
+
+:::{grid-item-card} 
+`M 13/10`
+^^^
+Status: 🤔 <br>
+**7820C** <br>
+**7821C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`T 14/10`
+^^^
+Status: 🤔 <br>
+**7836C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+`W 15/10`
+^^^
+Status: 🤔 <br>
+**7852C** <br>
++++
+EC L1? 🤔
+:::
+
+:::{grid-item-card}
+:class-card: orange-card
+`T 16/10`
+^^^
++++
+EC L1? - 
+:::
+
+:::{grid-item-card}
+:class-card: orange-card
+`F 17/10`
+^^^
++++
+EC L1? - 
+:::
+
+
+:::{grid-item-card}
+:class-card: orange-card
+`S 18/10`
+^^^
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+:class-card: orange-card
+`S 19/10`
+^^^
++++
+EC L1? -
+:::
+::::
+
+**Target orbits of the week:**
+```{figure} figures/cello_arctic_orbit_opportunities_week5.png
+---
+name: week5-orbits
+---
+Target orbits for week 5 (in purple), and Saturday orbits (in grey).
+```
+
+
+
+```{dropdown} Week 1
 
 ::::{grid}
 :gutter: 1
@@ -88,12 +412,11 @@ EC L1? -
 :link-type: doc
 `F 19/09`
 ^^^
-Status: ✅ <br>
+Status: ❌ <br>
 **7447C** <br>
-{flight-cat}`liquid`
-{flight-cat}`mpc`
+
 +++
-EC L1? ✅ 
+EC L1? - 
 :::
 
 
@@ -123,232 +446,5 @@ EC L1? -
 ---
 name: week1-orbits
 ---
-Target orbits for week 1 (in purple), and weekend orbits (in grey).
+Target orbits for week 1 (in purple), and Saturday orbits (in grey).
 ```
-
-### Week 2
-
-::::{grid}
-:gutter: 1
-
-:::{grid-item-card} 
-`M 22/09`
-^^^
-Status: 🤔 <br>
-**7494C** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`T 23/09`
-^^^
-Status: 🤔 <br>
-**7509C** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`W 24/09`
-^^^
-Status: 🤔 <br>
-**7525C** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`T 25/09`
-^^^
-Status: 🤔 <br>
-**7540C** <br>
-+++
-EC L1? 🤔 
-:::
-
-:::{grid-item-card}
-`F 26/09`
-^^^
-Status: 🤔 <br>
-**7556C** <br>
-+++
-EC L1? 🤔 
-:::
-
-
-:::{grid-item-card}
-:class-card: grey-card
-`S 27/09`
-^^^
-Status: ❌ <br>
-7571C
-7572C
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: grey-card
-`S 28/09`
-^^^
-Status: ❌ <br>
-7587C
-+++
-EC L1? -
-:::
-::::
-
-**Target orbits of the week:**
-```{figure} figures/cello_arctic_orbit_opportunities_week2.png
----
-name: week2-orbits
----
-Target orbits for week 2 (in purple), and weekend orbits (in grey).
-```
-
-
-### Week 3
-
-
-::::{grid}
-:gutter: 1
-
-:::{grid-item-card} 
-`M 29/09`
-^^^
-Status: 🤔 <br>
-**7603C** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`T 30/09`
-^^^
-Status: 🤔 <br>
-**7618C** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`W 01/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`T 02/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔 
-:::
-
-:::{grid-item-card}
-`F 03/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔 
-:::
-
-
-:::{grid-item-card}
-:class-card: grey-card
-`S 04/10`
-^^^
-Status: ❌ <br>
-?
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: grey-card
-`S 05/10`
-^^^
-Status: ❌ <br>
-?
-+++
-EC L1? -
-:::
-::::
-
-**Target orbits of the week:**
-
-### Week 4
-
-::::{grid}
-:gutter: 1
-
-:::{grid-item-card} 
-`M 06/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`T 07/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`W 08/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔
-:::
-
-:::{grid-item-card}
-`T 09/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔 
-:::
-
-:::{grid-item-card}
-`F 10/10`
-^^^
-Status: 🤔 <br>
-**?** <br>
-+++
-EC L1? 🤔 
-:::
-
-
-:::{grid-item-card}
-:class-card: orange-card
-`S 11/10`
-^^^
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: orange-card
-`S 12/10`
-^^^
-+++
-EC L1? -
-:::
-::::
-
-**Target orbits of the week:**
