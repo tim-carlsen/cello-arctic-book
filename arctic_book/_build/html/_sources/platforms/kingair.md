@@ -16,7 +16,7 @@ The CAPS and Hawkeye combination cloud probes are mounted on the underwing pylon
 
 ```{dropdown} SPEC Hawkeye
 The **Hawkeye** is an airborne atmospheric research instrument (developed by SPEC) that combines the capabilities of the **FCDP (Fast Cloud Droplet Probe)**, and the 3V-CPI, composed of the two channel **2D-S (Stereo Particle Imaging Probe)** and a **CPI (Cloud Particle Imager)**, specially developed for monitoring hydrometeors. 
-The size range for each component of the Hawkeye probe are the following:
+The measurable size ranges for each component of the Hawkeye probe are as follows:
 :::{list-table}
 :header-rows: 0
 * - **CPI**
@@ -33,7 +33,16 @@ The size range for each component of the Hawkeye probe are the following:
 ```
 
 ```{dropdown} DMT CAPS
-The **CAPS** is a research instrument developed by DMT that combines three cloud hydrometeor measurement systems: a **CAS (Cloud Aerosol Spectrometer with depolarization)** measuring aerosol and cloud hydrometeor size distributions from 2 μm to 50 μm, a **CIP (Cloud Imaging Probe)** measuring hydrometeor size distributions from 25 μm to 1550 μm and **LWC (LWC-100)** measuring liquid water content from 0.01 g/m3 to 3 g/m3 along with aircraft velocity, atmospheric temperature and pressure.
+The **CAPS** is a research instrument developed by DMT that combines three cloud hydrometeor measurement systems: a **CAS (Cloud Aerosol Spectrometer with depolarization)** measuring aerosol and cloud hydrometeor size distributions, a **CIP (Cloud Imaging Probe)** measuring hydrometeor size distributions, and a **LWC-100** (hotwire) probe measuring liquid water content. The CAPS also records aircraft velocity, atmospheric temperature and pressure. The size and measurement ranges for each component of the CAPS probe are as follows:
+:::{list-table}
+:header-rows: 0
+* - **CAS**
+  - 2 μm - 50 μm
+* - **CIP**
+  - 25 μm - 1550 μm
+* - **LWC-100 (Hotwire)**
+  - 0.01 g/m3 - 3 g/m3
+:::
 ```{figure} ../figures/caps.jpg
 
 ```

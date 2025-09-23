@@ -59,7 +59,7 @@ You can find past weeks at the bottom of the page.
 `M 22/09`
 ^^^
 Status: ❌ <br>
-**7494C** <br>
+7494C <br>
 +++
 EC L1? -
 :::
@@ -68,7 +68,7 @@ EC L1? -
 `T 23/09`
 ^^^
 Status: ❌ <br>
-**7509C** <br>
+7509C <br>
 +++
 EC L1? -
 :::
@@ -76,21 +76,20 @@ EC L1? -
 :::{grid-item-card}
 `W 24/09`
 ^^^
-Status: 🤔 <br>
-**7525C** <br>
-{flight-cat}`liquid`
-{flight-cat}`mpc`
+Status: ❌ <br>
+7525C <br>
+
 +++
-EC L1? 🤔
+EC L1? -
 :::
 
 :::{grid-item-card}
 `T 25/09`
 ^^^
-Status: 🤔 <br>
-**7540C** <br>
+Status: ❌ <br>
+7540C <br>
 +++
-EC L1? 🤔 
+EC L1? - 
 :::
 
 :::{grid-item-card}
@@ -162,6 +161,8 @@ EC L1? 🤔
 ^^^
 Status: 🤔 <br>
 **7634C** <br>
+{flight-cat}`liquid`
+{flight-cat}`mpc`
 +++
 EC L1? 🤔
 :::
@@ -318,12 +319,11 @@ EC L1? 🤔
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 `W 15/10`
 ^^^
-Status: 🤔 <br>
-**7852C** <br>
 +++
-EC L1? 🤔
+EC L1? -
 :::
 
 :::{grid-item-card}
@@ -413,7 +413,7 @@ EC L1? -
 `F 19/09`
 ^^^
 Status: ❌ <br>
-**7447C** <br>
+7447C <br>
 
 +++
 EC L1? - 
