@@ -43,7 +43,7 @@ The **CAPS** is a research instrument developed by DMT that combines three cloud
 * - **LWC-100 (Hotwire)**
   - 0.01 g/m3 - 3 g/m3
 :::
-```{figure} ../figures/caps.jpg
+```{figure} ../figures/caps.png
 
 ```
 
