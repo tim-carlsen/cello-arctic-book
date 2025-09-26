@@ -95,10 +95,11 @@ EC L1? -
 :::{grid-item-card}
 `F 26/09`
 ^^^
-Status: 🤔 <br>
-**7556C** <br>
+Status: ❌ <br>
+7556C <br>
+`scrapped`
 +++
-EC L1? 🤔 
+EC L1? - 
 :::
 
 
