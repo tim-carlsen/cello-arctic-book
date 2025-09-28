@@ -6,18 +6,18 @@
 :gutter: 3
 
 :::{grid-item-card} Flight hours used so far
-0 hours.
+3 hours.
 
 ```{dropdown} Hours per flight
-`KA-20250919a` **0.0** h
+`KA-20250928a` **3.0** h
 ```
 :::
 
 :::{grid-item-card} EC orbits targeted
-0 orbits.
+1 orbit.
 
 ```{dropdown} Covered orbits
-`7447C`
+`7587C`
 ```
 :::
 
@@ -37,6 +37,8 @@
   - **0**
 * - `Melting layer`
   - **0**
+* - `Cirrus`
+  - **1**
 ```
 
 
@@ -115,12 +117,13 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: green-card
 `S 28/09`
 ^^^
-Status: 🤔 <br>
+Status: ✅ <br>
 **7587C** <br>
 +++
-EC L1? -
+EC L1? ✅ 
 :::
 ::::
 

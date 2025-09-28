@@ -53,7 +53,14 @@ p {
     }
 
 .orange-card {
-        background-color: #fad2af; /* Dark gray background */
+        background-color: #fad2af; /* Light orange background */
+        padding: 0px;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+.green-card {
+        background-color: #84eab3; /* Light green background */
         padding: 0px;
         border-radius: 4px;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
