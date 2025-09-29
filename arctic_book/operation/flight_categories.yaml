@@ -22,10 +22,16 @@ categories:
     tier: "e"
   cirrus:
     long_name: "Cirrus cloud measurements"
+    tier: "e"
+  melt_layer:
+    long_name: "Melting layer"
     tier: "f"
+  precip:
+    long_name: "Measured rain/snow"
+    tier: "g"
   alomar:
     long_name: "ALOMAR observatory overpass"
-    tier: "g"
+    tier: "h"
   spiral_mindelo:
     long_name: "Spiral ascent/descent over Mindelo supersite"
-    tier: "g"
+    tier: "h"

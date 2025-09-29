@@ -9,7 +9,7 @@
 6 hours.
 
 ```{dropdown} Hours per flight
-`KA-20250928a` **3.0** h
+`KA-20250928a` **3.0** h <br>
 `KA-20250929a` **3.0** h
 ```
 :::
@@ -18,7 +18,7 @@
 2 orbits.
 
 ```{dropdown} Covered orbits
-`7587C`
+`7587C` <br>
 `7603C`
 ```
 :::
@@ -63,6 +63,11 @@ You can find past weeks at the bottom of the page.
 ^^^
 Status: ✅ <br>
 **7603C** <br>
+{flight-cat}`mpc`
+{flight-cat}`melt_layer`
+{flight-cat}`precip`
+{flight-cat}`in_cloud`
+{flight-cat}`ec_under`
 +++
 EC L1? ✅
 :::
@@ -70,10 +75,11 @@ EC L1? ✅
 :::{grid-item-card}
 `T 30/09`
 ^^^
-Status: 🤔 <br>
+Status: ❌ <br>
 **7618C** <br>
+`no clds`
 +++
-EC L1? 🤔
+EC L1? -
 :::
 
 :::{grid-item-card}
@@ -81,8 +87,6 @@ EC L1? 🤔
 ^^^
 Status: 🤔 <br>
 **7634C** <br>
-{flight-cat}`liquid`
-{flight-cat}`mpc`
 +++
 EC L1? 🤔
 :::
@@ -439,6 +443,9 @@ EC L1? -
 ^^^
 Status: ✅ <br>
 **7587C** <br>
+{flight-cat}`cirrus`
+{flight-cat}`in_cloud`
+{flight-cat}`ec_under`
 +++
 EC L1? ✅ 
 :::
