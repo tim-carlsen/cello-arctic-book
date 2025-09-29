@@ -6,18 +6,20 @@
 :gutter: 3
 
 :::{grid-item-card} Flight hours used so far
-3 hours.
+6 hours.
 
 ```{dropdown} Hours per flight
 `KA-20250928a` **3.0** h
+`KA-20250929a` **3.0** h
 ```
 :::
 
 :::{grid-item-card} EC orbits targeted
-1 orbit.
+2 orbits.
 
 ```{dropdown} Covered orbits
 `7587C`
+`7603C`
 ```
 :::
 
@@ -36,7 +38,7 @@
 * - `MPC Ac + CAOs`
   - **0**
 * - `Melting layer`
-  - **0**
+  - **1**
 * - `Cirrus`
   - **1**
 ```
@@ -50,105 +52,19 @@
 You can find past weeks at the bottom of the page.
 ```
 
-
-
-### Week 2
-
-::::{grid}
-:gutter: 1
-
-:::{grid-item-card} 
-`M 22/09`
-^^^
-Status: ❌ <br>
-7494C <br>
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-`T 23/09`
-^^^
-Status: ❌ <br>
-7509C <br>
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-`W 24/09`
-^^^
-Status: ❌ <br>
-7525C <br>
-
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-`T 25/09`
-^^^
-Status: ❌ <br>
-7540C <br>
-+++
-EC L1? - 
-:::
-
-:::{grid-item-card}
-`F 26/09`
-^^^
-Status: ❌ <br>
-7556C <br>
-`scrapped`
-+++
-EC L1? - 
-:::
-
-
-:::{grid-item-card}
-:class-card: grey-card
-`S 27/09`
-^^^
-Status: ❌ <br>
-7571C
-7572C
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: green-card
-`S 28/09`
-^^^
-Status: ✅ <br>
-**7587C** <br>
-+++
-EC L1? ✅ 
-:::
-::::
-
-**Target orbits of the week:**
-```{figure} figures/cello_arctic_orbit_opportunities_week2.png
----
-name: week2-orbits
----
-Target orbits for week 2 (in purple), and Saturday orbits (in grey).
-```
-
-
 ### Week 3
 
-
 ::::{grid}
 :gutter: 1
 
 :::{grid-item-card} 
+:class-card: green-card
 `M 29/09`
 ^^^
-Status: 🤔 <br>
+Status: ✅ <br>
 **7603C** <br>
 +++
-EC L1? 🤔
+EC L1? ✅
 :::
 
 :::{grid-item-card}
@@ -451,4 +367,87 @@ EC L1? -
 name: week1-orbits
 ---
 Target orbits for week 1 (in purple), and Saturday orbits (in grey).
+```
+
+```{dropdown} Week 2
+
+::::{grid}
+:gutter: 1
+
+:::{grid-item-card} 
+`M 22/09`
+^^^
+Status: ❌ <br>
+7494C <br>
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`T 23/09`
+^^^
+Status: ❌ <br>
+7509C <br>
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`W 24/09`
+^^^
+Status: ❌ <br>
+7525C <br>
+
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`T 25/09`
+^^^
+Status: ❌ <br>
+7540C <br>
++++
+EC L1? - 
+:::
+
+:::{grid-item-card}
+`F 26/09`
+^^^
+Status: ❌ <br>
+7556C <br>
+`scrapped`
++++
+EC L1? - 
+:::
+
+
+:::{grid-item-card}
+:class-card: grey-card
+`S 27/09`
+^^^
+Status: ❌ <br>
+7571C
+7572C
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+:class-card: green-card
+`S 28/09`
+^^^
+Status: ✅ <br>
+**7587C** <br>
++++
+EC L1? ✅ 
+:::
+::::
+
+**Target orbits of the week:**
+```{figure} figures/cello_arctic_orbit_opportunities_week2.png
+---
+name: week2-orbits
+---
+Target orbits for week 2 (in purple), and Saturday orbits (in grey).
 ```
