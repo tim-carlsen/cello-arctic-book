@@ -19,7 +19,7 @@ categories:
     tier: "d"
   mpc:
     long_name: "Mixed-phase cloud measurements"
-    tier: "e"
+    tier: "d"
   cirrus:
     long_name: "Cirrus cloud measurements"
     tier: "e"

@@ -73,7 +73,8 @@ Status: ✅ <br>
 {flight-cat}`mpc`
 {flight-cat}`melt_layer`
 {flight-cat}`precip`
-{flight-cat}`in_cloud`
+{flight-cat}`multi`
+{flight-cat}`marine_sc`
 {flight-cat}`ec_under`
 +++
 EC L1? ✅
@@ -100,7 +101,6 @@ Status: ✅ <br>
 {flight-cat}`precip`
 {flight-cat}`marine_sc`
 {flight-cat}`multi`
-{flight-cat}`in_cloud`
 {flight-cat}`ec_under`
 {flight-cat}`alomar`
 {flight-cat}`cirrus`
