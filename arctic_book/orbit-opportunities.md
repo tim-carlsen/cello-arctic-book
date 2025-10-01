@@ -111,11 +111,11 @@ EC L1? ✅
 :::{grid-item-card}
 `T 02/10`
 ^^^
-Status: 🤔 <br>
+Status: ❌ <br>
 **7649C** <br>
-`planned`
+`airspace concerns`
 +++
-EC L1? 🤔 
+EC L1? -
 :::
 
 :::{grid-item-card}
