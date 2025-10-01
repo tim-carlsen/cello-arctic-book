@@ -2,7 +2,7 @@
 
 For publications using CELLO data, please include this acknowledgement, to ensure the recognition of contributions to the data collection, while promoting its open and respectful use:
 
-> "CELLO was supported by the ESA Earth Observation Envelope Programme (ESA-EOEP) RFQ/3-18397/24/NL/SC, EU-HORIZON-WIDERA-2021 Grant 101079385 (BRACE-MY) and the European Research Council (ERC) through Consolidator Grant 101045273 (STEP-CHANGE)."  [The specific data used in this study was made available by instution/person XY thanks with partial support from agency XYZ]
+> "CELLO was supported by the ESA Earth Observation Envelope Programme (ESA-EOEP) contract No. 4000145240/24/NL/SC, EU-HORIZON-WIDERA-2021 Grant 101079385 (BRACE-MY) and the European Research Council (ERC) through Consolidator Grant 101045273 (STEP-CHANGE)."  [The specific data used in this study was made available by instution/person XY thanks with partial support from agency XYZ]
 
 
 ## Data access
