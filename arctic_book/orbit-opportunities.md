@@ -6,20 +6,23 @@
 :gutter: 3
 
 :::{grid-item-card} Flight hours used so far
-6 hours.
+9.75 hours.
 
 ```{dropdown} Hours per flight
 `KA-20250928a` **3.0** h <br>
-`KA-20250929a` **3.0** h
+`KA-20250929a` **3.0** h <br>
+`KA-20251001a` **3.75** h
 ```
 :::
 
 :::{grid-item-card} EC orbits targeted
-2 orbits.
+3 orbits.
 
 ```{dropdown} Covered orbits
 `7587C` <br>
-`7603C`
+`7603C` <br>
+`7634C`
+
 ```
 :::
 
@@ -28,8 +31,10 @@
 :header-rows: 0
 
 * - `Stratiform rain`
-  - **0**
+  - **2**
 * - `Stratocumulus`
+  - **2**
+* - `Cumulus`
   - **0**
 * - `Cb anvils`
   - **-**
@@ -38,9 +43,11 @@
 * - `MPC Ac + CAOs`
   - **0**
 * - `Melting layer`
-  - **1**
+  - **2**
 * - `Cirrus`
-  - **1**
+  - **2**
+* - `Multi-layer`
+  - **2**
 ```
 
 
@@ -83,12 +90,22 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: green-card
 `W 01/10`
 ^^^
-Status: 🤔 <br>
+Status: ✅ <br>
 **7634C** <br>
+{flight-cat}`mpc`
+{flight-cat}`melt_layer`
+{flight-cat}`precip`
+{flight-cat}`marine_sc`
+{flight-cat}`multi`
+{flight-cat}`in_cloud`
+{flight-cat}`ec_under`
+{flight-cat}`alomar`
+{flight-cat}`cirrus`
 +++
-EC L1? 🤔
+EC L1? ✅
 :::
 
 :::{grid-item-card}
@@ -96,6 +113,7 @@ EC L1? 🤔
 ^^^
 Status: 🤔 <br>
 **7649C** <br>
+`planned`
 +++
 EC L1? 🤔 
 :::

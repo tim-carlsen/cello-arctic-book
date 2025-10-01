@@ -31,7 +31,13 @@ categories:
     tier: "g"
   alomar:
     long_name: "ALOMAR observatory overpass"
-    tier: "h"
+    tier: "a"
   spiral_mindelo:
     long_name: "Spiral ascent/descent over Mindelo supersite"
     tier: "h"
+  marine_sc:
+    long_name: "Marine stratocumulus"
+    tier: "b"
+  multi:
+    long_name: "Complex multi-layer scene"
+    tier: "c"
