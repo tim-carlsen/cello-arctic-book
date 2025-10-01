@@ -6,12 +6,12 @@
 :gutter: 3
 
 :::{grid-item-card} Flight hours used so far
-9.75 hours.
+**10.0** hours.
 
 ```{dropdown} Hours per flight
 `KA-20250928a` **3.0** h <br>
 `KA-20250929a` **3.0** h <br>
-`KA-20251001a` **3.75** h
+`KA-20251001a` **4.0** h
 ```
 :::
 
