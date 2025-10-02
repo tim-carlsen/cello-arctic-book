@@ -113,7 +113,8 @@ EC L1? ✅
 ^^^
 Status: ❌ <br>
 **7649C** <br>
-`airspace concerns`
+`airspace`<br>
+`concerns`
 +++
 EC L1? -
 :::
@@ -319,7 +320,7 @@ Target orbits for week 5 (in purple), and Saturday orbits (in grey).
 
 :::{grid-item-card} 
 :class-card: orange-card
-`M 15/09`
+`M15/09`
 ^^^
 +++
 EC L1? -
@@ -327,7 +328,7 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: orange-card
-`T 16/09`
+`T16/09`
 ^^^
 +++
 EC L1? -
@@ -335,7 +336,7 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: orange-card
-`W 17/09`
+`W17/09`
 ^^^
 +++
 EC L1? -
@@ -343,7 +344,7 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: orange-card
-`T 18/09`
+`T18/09`
 ^^^
 +++
 EC L1? - 
@@ -352,7 +353,7 @@ EC L1? -
 :::{grid-item-card}
 :link: reports/KA-20250919a
 :link-type: doc
-`F 19/09`
+`F19/09`
 ^^^
 Status: ❌ <br>
 7447C <br>
@@ -364,7 +365,7 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: grey-card
-`S 20/09`
+`S20/09`
 ^^^
 Status: ❌ <br>
 7463C
@@ -374,7 +375,7 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: grey-card
-`S 21/09`
+`S21/09`
 ^^^
 Status: ❌ <br>
 7478C
@@ -397,7 +398,7 @@ Target orbits for week 1 (in purple), and Saturday orbits (in grey).
 :gutter: 1
 
 :::{grid-item-card} 
-`M 22/09`
+`M22/09`
 ^^^
 Status: ❌ <br>
 7494C <br>
@@ -406,7 +407,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
-`T 23/09`
+`T23/09`
 ^^^
 Status: ❌ <br>
 7509C <br>
@@ -415,7 +416,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
-`W 24/09`
+`W24/09`
 ^^^
 Status: ❌ <br>
 7525C <br>
@@ -425,7 +426,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
-`T 25/09`
+`T25/09`
 ^^^
 Status: ❌ <br>
 7540C <br>
@@ -434,7 +435,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
-`F 26/09`
+`F26/09`
 ^^^
 Status: ❌ <br>
 7556C <br>
@@ -446,7 +447,7 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: grey-card
-`S 27/09`
+`S27/09`
 ^^^
 Status: ❌ <br>
 7571C
@@ -457,15 +458,14 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: green-card
-`S 28/09`
+`S28/09`
 ^^^
 Status: ✅ <br>
 **7587C** <br>
 {flight-cat}`cirrus`
-{flight-cat}`in_cloud`
 {flight-cat}`ec_under`
 +++
-EC L1? ✅ 
+EC L1 ✅ 
 :::
 ::::
 
