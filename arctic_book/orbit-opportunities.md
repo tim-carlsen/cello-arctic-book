@@ -17,7 +17,7 @@
 :::
 
 :::{grid-item-card} EC orbits targeted
-3 orbits.
+4 orbits.
 
 ```{dropdown} Covered orbits
 `7587C` <br>
