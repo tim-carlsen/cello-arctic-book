@@ -2,27 +2,21 @@ categories:
   ec_under:
     long_name: "EarthCARE underpass"
     tier: "a"
-  ec_track:
-    long_name: "Fly along EarthCARE track"
-    tier: "a"
-  in_cloud:
-    long_name: "In-situ cloud measurements"
-    tier: "b"
-  spiral:
-    long_name: "Spiral ascent/descent"
-    tier: "b"
-  insitu_aerosol:
-    long_name: "In-situ aerosol measurements"
-    tier: "c"
   liquid:
     long_name: "Liquid cloud measurements"
-    tier: "d"
+    tier: "b"
   mpc:
     long_name: "Mixed-phase cloud measurements"
-    tier: "d"
+    tier: "c"
   cirrus:
     long_name: "Cirrus cloud measurements"
+    tier: "d"
+  marine_sc:
+    long_name: "Marine stratocumulus"
     tier: "e"
+  multi:
+    long_name: "Complex multi-layer scene"
+    tier: "e"  
   melt_layer:
     long_name: "Melting layer"
     tier: "f"
@@ -32,12 +26,4 @@ categories:
   alomar:
     long_name: "ALOMAR observatory overpass"
     tier: "a"
-  spiral_mindelo:
-    long_name: "Spiral ascent/descent over Mindelo supersite"
-    tier: "h"
-  marine_sc:
-    long_name: "Marine stratocumulus"
-    tier: "b"
-  multi:
-    long_name: "Complex multi-layer scene"
-    tier: "c"
+
