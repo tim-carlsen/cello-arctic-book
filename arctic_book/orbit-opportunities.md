@@ -360,6 +360,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 :link: reports/KA-20250919a
 :link-type: doc
 `F19/09`
@@ -373,7 +374,7 @@ EC L1? -
 
 
 :::{grid-item-card}
-:class-card: grey-card
+:class-card: orange-card
 `S20/09`
 ^^^
 Status: ❌ <br>
@@ -383,7 +384,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
-:class-card: grey-card
+:class-card: orange-card
 `S21/09`
 ^^^
 Status: ❌ <br>
@@ -407,6 +408,7 @@ Target orbits for week 1 (in purple), and Saturday orbits (in grey).
 :gutter: 1
 
 :::{grid-item-card} 
+:class-card: orange-card
 `M22/09`
 ^^^
 Status: ❌ <br>
@@ -416,6 +418,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 `T23/09`
 ^^^
 Status: ❌ <br>
@@ -425,6 +428,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 `W24/09`
 ^^^
 Status: ❌ <br>
@@ -435,10 +439,13 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 `T25/09`
 ^^^
 Status: ❌ <br>
 7540C <br>
+`aircraft`
+`arrival`
 +++
 EC L1? - 
 :::

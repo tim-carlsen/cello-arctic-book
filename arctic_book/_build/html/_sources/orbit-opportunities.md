@@ -6,22 +6,24 @@
 :gutter: 3
 
 :::{grid-item-card} Flight hours used so far
-**10.0** hours.
+**13.5** hours.
 
 ```{dropdown} Hours per flight
 `KA-20250928a` **3.0** h <br>
 `KA-20250929a` **3.0** h <br>
-`KA-20251001a` **4.0** h
+`KA-20251001a` **4.0** h <br>
+`KA-20251003a` **3.5** h
 ```
 :::
 
 :::{grid-item-card} EC orbits targeted
-3 orbits.
+4 orbits.
 
 ```{dropdown} Covered orbits
 `7587C` <br>
 `7603C` <br>
-`7634C`
+`7634C` <br>
+`7665C`
 
 ```
 :::
@@ -33,7 +35,7 @@
 * - `Stratiform rain`
   - **2**
 * - `Stratocumulus`
-  - **2**
+  - **3**
 * - `Cumulus`
   - **0**
 * - `Cb anvils`
@@ -43,11 +45,11 @@
 * - `MPC Ac + CAOs`
   - **0**
 * - `Melting layer`
-  - **2**
+  - **3**
 * - `Cirrus`
   - **2**
 * - `Multi-layer`
-  - **2**
+  - **3**
 ```
 
 
@@ -120,12 +122,19 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: green-card
 `F 03/10`
 ^^^
-Status: 🤔 <br>
+Status: ✅  <br>
 **7665C** <br>
+{flight-cat}`mpc`
+{flight-cat}`melt_layer`
+{flight-cat}`precip`
+{flight-cat}`marine_sc`
+{flight-cat}`multi`
+{flight-cat}`ec_under`
 +++
-EC L1? 🤔 
+EC L1? ✅ 
 :::
 
 
@@ -351,6 +360,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 :link: reports/KA-20250919a
 :link-type: doc
 `F19/09`
@@ -364,7 +374,7 @@ EC L1? -
 
 
 :::{grid-item-card}
-:class-card: grey-card
+:class-card: orange-card
 `S20/09`
 ^^^
 Status: ❌ <br>
@@ -374,7 +384,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
-:class-card: grey-card
+:class-card: orange-card
 `S21/09`
 ^^^
 Status: ❌ <br>
@@ -398,6 +408,7 @@ Target orbits for week 1 (in purple), and Saturday orbits (in grey).
 :gutter: 1
 
 :::{grid-item-card} 
+:class-card: orange-card
 `M22/09`
 ^^^
 Status: ❌ <br>
@@ -407,6 +418,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 `T23/09`
 ^^^
 Status: ❌ <br>
@@ -416,6 +428,7 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 `W24/09`
 ^^^
 Status: ❌ <br>
@@ -426,10 +439,13 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: orange-card
 `T25/09`
 ^^^
 Status: ❌ <br>
 7540C <br>
+`aircraft`
+`arrival`
 +++
 EC L1? - 
 :::
