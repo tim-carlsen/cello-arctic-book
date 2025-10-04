@@ -68,6 +68,8 @@ You can find past weeks at the bottom of the page.
 
 :::{grid-item-card} 
 :class-card: green-card
+:link: reports/KA-20250929a
+:link-type: doc
 `M 29/09`
 ^^^
 Status: ✅ <br>
@@ -94,6 +96,8 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: green-card
+:link: reports/KA-20251001a
+:link-type: doc
 `W 01/10`
 ^^^
 Status: ✅ <br>
@@ -474,6 +478,8 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: green-card
+:link: reports/KA-20250928a
+:link-type: doc
 `S28/09`
 ^^^
 Status: ✅ <br>
