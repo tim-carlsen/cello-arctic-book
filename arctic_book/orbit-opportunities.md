@@ -123,6 +123,8 @@ EC L1? -
 
 :::{grid-item-card}
 :class-card: green-card
+:link: 'reports/KA-20251003a.md'
+:link-type: doc
 `F 03/10`
 ^^^
 Status: ✅  <br>
