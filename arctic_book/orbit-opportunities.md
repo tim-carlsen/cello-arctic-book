@@ -157,8 +157,11 @@ EC L1? -
 :::{grid-item-card}
 `S 05/10`
 ^^^
-Status: 🤔 <br>
+Status: ❌ <br>
 **7696C** <br>
+`adverse`
+`weather`
+`KRN`
 +++
 EC L1? -
 :::
