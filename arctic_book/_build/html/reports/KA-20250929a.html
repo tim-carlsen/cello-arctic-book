@@ -456,9 +456,11 @@ document.write(`
 </section>
 <section id="conditions">
 <h2>Conditions<a class="headerlink" href="#conditions" title="Link to this heading">#</a></h2>
+<p>During the EC leg, we experienced low mixed-phase clouds (with some overlying high clouds). Mostly continuous cloud decks, but sometimes a bit broken up in the vertical. We sampled between 1.2 and 3.5 km altitude, covering temperatures between -6°C and +5°C. This way, we measured rain and snow above and below the melting layer in addition to sampling cloud droplets and ice crystals.</p>
 </section>
 <section id="flight-video">
 <h2>Flight video<a class="headerlink" href="#flight-video" title="Link to this heading">#</a></h2>
+<p>Video cutting and editing in progress…</p>
 </section>
 <section id="events">
 <h2>Events<a class="headerlink" href="#events" title="Link to this heading">#</a></h2>
@@ -472,8 +474,14 @@ document.write(`
 <tr class="row-even"><td><p>12:53</p></td>
 <td><p>Takeoff Kiruna</p></td>
 </tr>
-<tr class="row-odd"><td><p>14:20</p></td>
+<tr class="row-odd"><td><p>14:04</p></td>
+<td><p>Start ec_leg</p></td>
+</tr>
+<tr class="row-even"><td><p>14:20</p></td>
 <td><p>EarthCARE overpass (orbit #7603C)</p></td>
+</tr>
+<tr class="row-odd"><td><p>14:37</p></td>
+<td><p>End ec_leg</p></td>
 </tr>
 <tr class="row-even"><td><p>15:53</p></td>
 <td><p>Landing Kiruna</p></td>
@@ -484,9 +492,76 @@ document.write(`
 </section>
 <section id="execution">
 <h2>Execution<a class="headerlink" href="#execution" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Takeoff KRN: 12:53 UTC (14:53 LT)</p></li>
+<li><p>Hawkeye running</p></li>
+<li><p>13:20 UTC: delayed due to strong headwinds, expected arrival &#64;WP1 at 14:00 UTC, request for arrival &#64;FL100 so try to go down already</p></li>
+<li><p>13:30 UTC: will start descent to FL100 after we passed the mountains</p></li>
+<li><p>13:44 UTC: start descending towards WP, 800ft/min</p></li>
+<li><p>13:59 UTC: vicinity of WP1, FL150</p></li>
+<li><p>14:04 UTC, WP1, start ec_leg</p></li>
+<li><p>14:07 UTC: WPA</p></li>
+<li><p>14:10 UTC: WPB</p></li>
+<li><p>14:13 UTC: start ascent after porpoising down</p></li>
+<li><p>14:15 UTC: WPC</p></li>
+<li><p>ground speed 237 kt, Temperatures from cockpit were ~2°C higher than SAT</p></li>
+<li><p>14:19 UTC: going a bit higher to cover temperatures down to -5°C</p></li>
+<li><p>14:19 UTC: start descent again, 1000 ft/min, EC overpass</p></li>
+<li><p>14:24 UTC: WPE</p></li>
+<li><p>14:27 UTC: alt capture, start ascent again</p></li>
+<li><p>14:30 UTC: WP2, continue same heading to extend ec_leg</p></li>
+<li><p>14:32 UTC: continue climb until FL150</p></li>
+<li><p>14:37 UTC: finish ec_leg, going home</p></li>
+<li><p>Landing KRN: 15:53 UTC (17:53 LT)</p></li>
+</ul>
 </section>
 <section id="impressions">
 <h2>Impressions<a class="headerlink" href="#impressions" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>13:30 UTC: -34°C, TAS230, FL270, no clouds</p></li>
+<li><p>13:50 UTC: TAS240, -21°C, FL200, in-cloud, Hawkeye works, 2DS sees crystals</p></li>
+<li><p>13:52 UTC: TAS237, -20°C, FL190, FCDP sees droplets + small ice in 2DS, many thin layers</p></li>
+<li><p>13:54 UTC: TAS228, -17°C, FL170</p></li>
+<li><p>13:56 UTC: TAS216, -13°C, FL160</p></li>
+<li><p>13:58 UTC: in-cloud, close to cloud top</p></li>
+<li><p>13:59 UTC: big ice, TAS210, -11°C, FL150</p></li>
+<li><p>14:01 UTC: TAS206, -11°C, FL140, Hawkeye works</p></li>
+<li><p>14:03 UTC: windshield iced up</p></li>
+<li><p>14:04 UTC: TAS196, -6°C, FL110, big ice</p></li>
+<li><p>14:06 UTC: TAS204, -4°C, FL100</p></li>
+<li><p>14:07 UTC: TAS206, -2°C, FL090, some icing, lots of droplets in FCDP, small ice in 2DS</p></li>
+<li><p>14:09 UTC: TAS183, 0°C, FL070</p></li>
+<li><p>14:10 UTC: TAS180, 2°C, FL060, some cloud gaps in the vertical</p></li>
+<li><p>14:12 UTC: in cloud again, big drops, rain</p></li>
+<li><p>14:13 UTC: 5°C, ascent, big drops, FL040</p></li>
+<li><p>14:15 UTC: TAS163, 3°C, FL050</p></li>
+<li><p>14:16 UTC: TAS162, 1°C, FL070</p></li>
+<li><p>14:17 UTC: TAS170, -1°C, FL080, lots of crystals (columns?)</p></li>
+<li><p>14:18 UTC: TAS179, -2°C, FL090</p></li>
+<li><p>14:19 UTC: TAS187, -4°C, FL100, going a bit up to -5°C</p></li>
+<li><p>14:19 UTC: TAS188, -5°C, FL107, small and big ice on 2DS, EC overpass</p></li>
+<li><p>14:21 UTC: TAS198, -3°C, FL097</p></li>
+<li><p>14:23 UTC: TAS193, 0°C, FL079</p></li>
+<li><p>14:24 UTC: TAS192, 2°C, FL065, in cloud all the time</p></li>
+<li><p>14:25 UTC: can see ocean below, little rain, much less than before</p></li>
+<li><p>14:27 UTC: TAS190, 5°C, FL040, below cloud, can still see ocean, looks like little rain still on windshield</p></li>
+<li><p>14:29 UTC: cloud base roughly, TAS175, 3°C, FL063, completely in cloud again</p></li>
+<li><p>14:30 UTC: snowing &#64;WP2</p></li>
+<li><p>14:31 UTC: TAS179, 1°C, FL080</p></li>
+<li><p>14:32 UTC: TAS183, -1°C</p></li>
+<li><p>14:34 UTC: 2DS not updating, but receiving bytes, no image update (took video), just doesn’t seem to see a particle right now</p></li>
+<li><p>14:34 UTC: TAS189, -4°C, FL110, FCDP updating, very small droplets (maybe that’s why nothing 2DS)</p></li>
+<li><p>14:36 UTC: TAS196, -8°C, FL131</p></li>
+<li><p>14:37 UTC: TAS198, -10°C, FL150</p></li>
+<li><p>14:37 UTC: out of cloud top, going home, 2DS updating again and seeing particles</p></li>
+<li><p>14:39 UTC: TAS205</p></li>
+<li><p>14:40 UTC: sun dog to the right</p></li>
+<li><p>14:48 UTC: FL240, above cirrus, -30°C</p></li>
+<li><p>14:49 UTC: still a bit in cloud, 2DS + FCDP see something, 180kts ground speed</p></li>
+<li><p>in-flight entertainment + service starts</p></li>
+<li><p>14:57 UTC: no cloud anymore, we are above it it seems</p></li>
+<li><p>15:36 UTC: in cloud during approach</p></li>
+</ul>
 </section>
 <section id="instrument-status-quicklooks">
 <h2>Instrument status &amp; quicklooks<a class="headerlink" href="#instrument-status-quicklooks" title="Link to this heading">#</a></h2>
@@ -528,6 +603,14 @@ document.write(`
 </tr>
 </tbody>
 </table>
+</div>
+<div class="sd-sphinx-override sd-cards-carousel sd-card-cols-2 docutils">
+<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm docutils">
+<img alt="" class="sd-card-img-top" src="../_images/temp_profiles.jpg" />
+<div class="sd-card-body docutils">
+<p class="sd-card-text">Temperature profiles for the 4 profiles while porpoising during EC overpass.</p>
+</div>
+</div>
 </div>
 </section>
 </section>
