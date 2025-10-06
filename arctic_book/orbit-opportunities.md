@@ -1,5 +1,10 @@
 # Orbit opportunities
 
+```{margin}
+<a href="https://metar-taf.com/metar/ESNQ" id="metartaf-YGtHh68R" style="font-size:14px; font-weight:500; color:#000; width:240px; height:360px; display:block">METAR Kiruna Airport</a>
+<script async defer crossorigin="anonymous" src="https://metar-taf.com/embed-js/ESNQ?qnh=hPa&rh=rh&target=YGtHh68R"></script>
+```
+
 ## Overview statistics
 
 ::::{grid}
@@ -184,7 +189,6 @@ Target orbits for week 3 (in purple), and Saturday orbits (in grey).
 `M 06/10`
 ^^^
 Status: 🤔 <br>
-**7711C** <br>
 **7712C** <br>
 +++
 EC L1? 🤔
