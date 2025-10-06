@@ -188,10 +188,13 @@ Target orbits for week 3 (in purple), and Saturday orbits (in grey).
 :::{grid-item-card} 
 `M 06/10`
 ^^^
-Status: 🤔 <br>
+Status: ❌ <br>
 **7712C** <br>
+`adverse`
+`weather`
+`KRN`
 +++
-EC L1? 🤔
+EC L1? -
 :::
 
 :::{grid-item-card}
