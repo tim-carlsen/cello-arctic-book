@@ -88,10 +88,13 @@ EC L1? -
 :::{grid-item-card}
 `T 07/10`
 ^^^
-Status: 🤔 <br>
+Status: ❌ <br>
 **7727C** <br>
+`adverse`
+`weather`
+`KRN`
 +++
-EC L1? 🤔
+EC L1? -
 :::
 
 :::{grid-item-card}
