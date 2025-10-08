@@ -108,7 +108,7 @@ Status: ✅ <br>
 {flight-cat}`cb_anvil`
 {flight-cat}`ec_under`
 +++
-EC L1? 🤔
+EC L1? ?
 :::
 
 :::{grid-item-card}
