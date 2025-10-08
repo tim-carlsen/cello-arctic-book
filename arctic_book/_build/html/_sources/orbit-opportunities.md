@@ -11,24 +11,26 @@
 :gutter: 3
 
 :::{grid-item-card} Flight hours used so far
-**13.5** hours.
+**16.5** hours.
 
 ```{dropdown} Hours per flight
 `KA-20250928a` **3.0** h <br>
 `KA-20250929a` **3.0** h <br>
 `KA-20251001a` **4.0** h <br>
-`KA-20251003a` **3.5** h
+`KA-20251003a` **3.5** h <br>
+`KA-20251008a` **3.0** h
 ```
 :::
 
 :::{grid-item-card} EC orbits targeted
-4 orbits.
+5 orbits.
 
 ```{dropdown} Covered orbits
 `7587C` <br>
 `7603C` <br>
 `7634C` <br>
-`7665C`
+`7665C` <br>
+`7743C`
 
 ```
 :::
@@ -44,7 +46,7 @@
 * - `Cumulus`
   - **0**
 * - `Cb anvils`
-  - **-**
+  - **1**
 * - `Ns snow`
   - **0**
 * - `MPC Ac + CAOs`
@@ -52,7 +54,7 @@
 * - `Melting layer`
   - **3**
 * - `Cirrus`
-  - **2**
+  - **3**
 * - `Multi-layer`
   - **3**
 ```
@@ -100,8 +102,11 @@ EC L1? -
 :::{grid-item-card}
 `W 08/10`
 ^^^
-Status: 🤔 <br>
+Status: ✅ <br>
 **7743C** <br>
+{flight-cat}`cirrus`
+{flight-cat}`cb_anvil`
+{flight-cat}`ec_under`
 +++
 EC L1? 🤔
 :::

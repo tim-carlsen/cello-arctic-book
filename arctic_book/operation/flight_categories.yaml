@@ -14,6 +14,9 @@ categories:
   marine_sc:
     long_name: "Marine stratocumulus"
     tier: "e"
+  cb_anvil:
+    long_name: "Cb anvil"
+    tier: "e"
   multi:
     long_name: "Complex multi-layer scene"
     tier: "e"  
