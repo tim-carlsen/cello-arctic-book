@@ -67,7 +67,7 @@
 
 ## Target orbits
 ```{note}
-You can find past weeks at the bottom of the page.
+Clicking on a flown orbit card directs you to the corresponding flight report. You can find past weeks at the bottom of the page.
 ```
 
 
