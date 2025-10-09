@@ -118,6 +118,8 @@ EC L1? ✅
 
 :::{grid-item-card}
 :class-card: green-card
+:link: reports/KA-20251009a
+:link-type: doc
 `T 09/10`
 ^^^
 Status: ✅ <br>
@@ -126,7 +128,7 @@ Status: ✅ <br>
 {flight-cat}`multi`
 {flight-cat}`ec_under`
 +++
-EC L1? 🤔 
+EC L1? ✅ 
 :::
 
 :::{grid-item-card}
