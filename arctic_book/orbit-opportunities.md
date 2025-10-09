@@ -102,6 +102,9 @@ EC L1? -
 :::
 
 :::{grid-item-card}
+:class-card: green-card
+:link: reports/KA-20251008a
+:link-type: doc
 `W 08/10`
 ^^^
 Status: ✅ <br>
@@ -114,6 +117,7 @@ EC L1? ✅
 :::
 
 :::{grid-item-card}
+:class-card: green-card
 `T 09/10`
 ^^^
 Status: ✅ <br>
