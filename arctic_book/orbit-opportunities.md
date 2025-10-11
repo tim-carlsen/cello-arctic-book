@@ -53,7 +53,7 @@
 * - `Ns snow`
   - **0**
 * - `MPC Ac + CAOs`
-  - **0**
+  - **1**
 * - `Melting layer`
   - **3**
 * - `Cirrus`
@@ -134,6 +134,8 @@ EC L1? ✅
 
 :::{grid-item-card}
 :class-card: green-card
+:link: reports/KA-20251010a
+:link-type: doc
 `F 10/10`
 ^^^
 Status: ✅ <br>
@@ -145,7 +147,7 @@ Status: ✅ <br>
 {flight-cat}`multi`
 {flight-cat}`ec_under`
 +++
-EC L1? 🤔 
+EC L1? ✅ 
 :::
 
 
