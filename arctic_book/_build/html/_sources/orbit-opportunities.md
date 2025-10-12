@@ -163,8 +163,11 @@ EC L1? -
 :::{grid-item-card}
 `S 12/10`
 ^^^
-Status: 🤔 <br>
+Status: ❌ <br>
 **7805C** <br>
+`unclr`
+`cld`
+`sit`
 +++
 EC L1? -
 :::
@@ -207,6 +210,9 @@ EC L1? 🤔
 :class-card: orange-card
 `W 15/10`
 ^^^
+`aircraft`
+`leaves`
+`KRN`
 +++
 EC L1? -
 :::
