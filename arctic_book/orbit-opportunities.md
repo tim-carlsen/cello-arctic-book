@@ -72,116 +72,6 @@ Clicking on a flown orbit card directs you to the corresponding flight report. Y
 ```
 
 
-
-### Week 4
-
-::::{grid}
-:gutter: 1
-
-:::{grid-item-card} 
-`M 06/10`
-^^^
-Status: ❌ <br>
-**7712C** <br>
-`adverse`
-`weather`
-`KRN`
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-`T 07/10`
-^^^
-Status: ❌ <br>
-**7727C** <br>
-`adverse`
-`weather`
-`KRN`
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: green-card
-:link: reports/KA-20251008a
-:link-type: doc
-`W 08/10`
-^^^
-Status: ✅ <br>
-**7743C** <br>
-{flight-cat}`cirrus`
-{flight-cat}`cb_anvil`
-{flight-cat}`ec_under`
-+++
-EC L1? ✅
-:::
-
-:::{grid-item-card}
-:class-card: green-card
-:link: reports/KA-20251009a
-:link-type: doc
-`T 09/10`
-^^^
-Status: ✅ <br>
-**7758C/D** <br>
-{flight-cat}`cirrus`
-{flight-cat}`multi`
-{flight-cat}`ec_under`
-+++
-EC L1? ✅ 
-:::
-
-:::{grid-item-card}
-:class-card: green-card
-:link: reports/KA-20251010a
-:link-type: doc
-`F 10/10`
-^^^
-Status: ✅ <br>
-**7774C** <br>
-{flight-cat}`cirrus`
-{flight-cat}`altocumulus`
-{flight-cat}`mpc`
-{flight-cat}`precip`
-{flight-cat}`multi`
-{flight-cat}`ec_under`
-+++
-EC L1? ✅ 
-:::
-
-
-:::{grid-item-card}
-:class-card: grey-card
-`S 11/10`
-^^^
-7789C
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-`S 12/10`
-^^^
-Status: ❌ <br>
-**7805C** <br>
-`unclr`
-`cld`
-`sit`
-+++
-EC L1? -
-:::
-::::
-
-**Target orbits of the week:**
-```{figure} figures/cello_arctic_orbit_opportunities_week4.png
----
-name: week4-orbits
----
-Target orbits for week 4 (in purple), and Saturday orbits (in grey).
-```
-
-
 ### Week 5
 
 ::::{grid}
@@ -190,11 +80,13 @@ Target orbits for week 4 (in purple), and Saturday orbits (in grey).
 :::{grid-item-card} 
 `M 13/10`
 ^^^
-Status: 🤔 <br>
+Status: ❌ <br>
 **7820C** <br>
 **7821C** <br>
+`airspace`
+`+ range`
 +++
-EC L1? 🤔
+EC L1? -
 :::
 
 :::{grid-item-card}
@@ -203,7 +95,7 @@ EC L1? 🤔
 Status: 🤔 <br>
 **7836C** <br>
 +++
-EC L1? 🤔
+EC L1?🤔
 :::
 
 :::{grid-item-card}
@@ -544,4 +436,112 @@ EC L1? -
 name: week3-orbits
 ---
 Target orbits for week 3 (in purple), and Saturday orbits (in grey).
+```
+
+```{dropdown} Week 4
+
+::::{grid}
+:gutter: 1
+
+:::{grid-item-card} 
+`M06/10`
+^^^
+Status: ❌ <br>
+**7712C** <br>
+`adverse`
+`weather`
+`KRN`
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`T07/10`
+^^^
+Status: ❌ <br>
+**7727C** <br>
+`adverse`
+`weather`
+`KRN`
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+:class-card: green-card
+:link: reports/KA-20251008a
+:link-type: doc
+`W08/10`
+^^^
+Status: ✅ <br>
+**7743C** <br>
+{flight-cat}`cirrus`
+{flight-cat}`cb_anvil`
+{flight-cat}`ec_under`
++++
+EC L1 ✅
+:::
+
+:::{grid-item-card}
+:class-card: green-card
+:link: reports/KA-20251009a
+:link-type: doc
+`T09/10`
+^^^
+Status: ✅ <br>
+**7758C/D** <br>
+{flight-cat}`cirrus`
+{flight-cat}`multi`
+{flight-cat}`ec_under`
++++
+EC L1 ✅ 
+:::
+
+:::{grid-item-card}
+:class-card: green-card
+:link: reports/KA-20251010a
+:link-type: doc
+`F10/10`
+^^^
+Status: ✅ <br>
+**7774C** <br>
+{flight-cat}`cirrus`
+{flight-cat}`altocumulus`
+{flight-cat}`mpc`
+{flight-cat}`precip`
+{flight-cat}`multi`
+{flight-cat}`ec_under`
++++
+EC L1 ✅ 
+:::
+
+
+:::{grid-item-card}
+:class-card: grey-card
+`S11/10`
+^^^
+7789C
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+`S12/10`
+^^^
+Status: ❌ <br>
+**7805C** <br>
+`unclr`
+`cld`
+`sit`
++++
+EC L1? -
+:::
+::::
+
+**Target orbits of the week:**
+```{figure} figures/cello_arctic_orbit_opportunities_week4.png
+---
+name: week4-orbits
+---
+Target orbits for week 4 (in purple), and Saturday orbits (in grey).
 ```
