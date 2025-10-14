@@ -5,6 +5,7 @@ For an overview of all flight categories, [click here](flight_categories).
 
 Flight-ID | Date | Takeoff | Landing | PI | Nickname | Categories
 --- | --- | --- | --- | --- | --- | ---
+KA-20251014a ([plan](../plans/KA-20251014a.md)) | 14 October 2025 | **14:35 LT**<br>_12:35 UTC_ | **16:50 LT**<br>_14:50 UTC_ | Tim Carlsen | None | {flight-cat}`cirrus` {flight-cat}`altocumulus` {flight-cat}`mpc` {flight-cat}`multi` {flight-cat}`ec_under` 
 KA-20251010a ([plan](../plans/KA-20251010a.md), [report](../reports/KA-20251010a.md)) | 10 October 2025 | **15:02 LT**<br>_13:02 UTC_ | **17:03 LT**<br>_15:03 UTC_ | Robert Oscar David | The Lagrangian One | {flight-cat}`cirrus` {flight-cat}`altocumulus` {flight-cat}`mpc` {flight-cat}`precip` {flight-cat}`multi` {flight-cat}`ec_under` 
 KA-20251009a ([plan](../plans/KA-20251009a.md), [report](../reports/KA-20251009a.md)) | 09 October 2025 | **14:12 LT**<br>_12:12 UTC_ | **17:06 LT**<br>_15:06 UTC_ | Tim Carlsen | Parting the clouds | {flight-cat}`cirrus` {flight-cat}`multi` {flight-cat}`ec_under` 
 KA-20251008a ([plan](../plans/KA-20251008a.md), [report](../reports/KA-20251008a.md)) | 08 October 2025 | **14:53 LT**<br>_12:53 UTC_ | **17:30 LT**<br>_15:30 UTC_ | Robert Oscar David | Charlie Bravo | {flight-cat}`cirrus` {flight-cat}`cb_anvil` {flight-cat}`ec_under` 

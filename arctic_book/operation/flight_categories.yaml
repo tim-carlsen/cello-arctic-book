@@ -17,6 +17,9 @@ categories:
   altocumulus:
     long_name: "Altocumulus"
     tier: "e"
+  altostratus:
+    long_name: "Altostratus"
+    tier: "e"
   cb_anvil:
     long_name: "Cb anvil"
     tier: "e"
