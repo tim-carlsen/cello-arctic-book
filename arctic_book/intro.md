@@ -16,7 +16,7 @@ The collocations with the ground-based remote sensing sites will ultimately prov
 :::{grid-item-card} 
 :link: orbit-opportunities
 :link-type: doc
-<font color='grey'>17 September - 10 October 2025 <br>
+<font color='grey'>25 September - 15 October 2025 <br>
 <b>Kiruna, Sweden</b></font>
 ^^^
 ```{figure} logos/LOGO_CELLO_ARCTIC_sized.png
