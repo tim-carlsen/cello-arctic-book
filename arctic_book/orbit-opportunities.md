@@ -68,96 +68,18 @@
 :::
 ::::
 
+```{figure} figures/cello_arctic_flighttracks.png
+---
+name: cello-arctic-flighttracks
+---
+Overview of all EarthCARE underflights during CELLO-ARCTIC in September and October 2025.
+```
+
+
 ## Target orbits
 ```{note}
-Clicking on a flown orbit card directs you to the corresponding flight report. You can find past weeks at the bottom of the page.
+You can find the daily orbit opportunities in the weekly dropdowns below. Clicking on a flown orbit card directs you to the corresponding flight report.
 ```
-
-
-### Week 5
-
-::::{grid}
-:gutter: 1
-
-:::{grid-item-card} 
-`M 13/10`
-^^^
-Status: ❌ <br>
-**7820C** <br>
-**7821C** <br>
-`airspace`
-`+ range`
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: green-card
-`T 14/10`
-^^^
-Status: ✅ <br>
-**7836C** <br>
-{flight-cat}`mpc`
-{flight-cat}`liquid`
-{flight-cat}`altostratus`
-{flight-cat}`ec_under`
-+++
-EC L1?🤔
-:::
-
-:::{grid-item-card}
-:class-card: orange-card
-`W 15/10`
-^^^
-`aircraft`
-`leaves`
-`KRN`
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: orange-card
-`T 16/10`
-^^^
-+++
-EC L1? - 
-:::
-
-:::{grid-item-card}
-:class-card: orange-card
-`F 17/10`
-^^^
-+++
-EC L1? - 
-:::
-
-
-:::{grid-item-card}
-:class-card: orange-card
-`S 18/10`
-^^^
-+++
-EC L1? -
-:::
-
-:::{grid-item-card}
-:class-card: orange-card
-`S 19/10`
-^^^
-+++
-EC L1? -
-:::
-::::
-
-**Target orbits of the week:**
-```{figure} figures/cello_arctic_orbit_opportunities_week5.png
----
-name: week5-orbits
----
-Target orbits for week 5 (in purple), and Saturday orbits (in grey).
-```
-
 
 
 ```{dropdown} Week 1
@@ -389,8 +311,10 @@ EC L1 ✅
 ^^^
 Status: ❌ <br>
 **7649C** <br>
-`airspace`<br>
-`concerns`
+`air-`<br>
+`space`<br>
+`con-`<br>
+`cerns`
 +++
 EC L1? -
 :::
@@ -551,4 +475,91 @@ EC L1? -
 name: week4-orbits
 ---
 Target orbits for week 4 (in purple), and Saturday orbits (in grey).
+```
+
+
+```{dropdown} Week 5
+
+::::{grid}
+:gutter: 1
+
+:::{grid-item-card} 
+`M13/10`
+^^^
+Status: ❌ <br>
+**7820C** <br>
+**7821C** <br>
+`airspace`
+`+ range`
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+:class-card: green-card
+:link: reports/KA-20251014a
+:link-type: doc
+`T14/10`
+^^^
+Status: ✅ <br>
+**7836C/D** <br>
+{flight-cat}`mpc`
+{flight-cat}`liquid`
+{flight-cat}`altostratus`
+{flight-cat}`ec_under`
++++
+EC L1 ✅
+:::
+
+:::{grid-item-card}
+:class-card: orange-card
+`W15/10`
+^^^
+`aircraft`
+`leaves`
+`KRN`
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+:class-card: orange-card
+`T16/10`
+^^^
++++
+EC L1? - 
+:::
+
+:::{grid-item-card}
+:class-card: orange-card
+`F17/10`
+^^^
++++
+EC L1? - 
+:::
+
+
+:::{grid-item-card}
+:class-card: orange-card
+`S18/10`
+^^^
++++
+EC L1? -
+:::
+
+:::{grid-item-card}
+:class-card: orange-card
+`S19/10`
+^^^
++++
+EC L1? -
+:::
+::::
+
+**Target orbits of the week:**
+```{figure} figures/cello_arctic_orbit_opportunities_week5.png
+---
+name: week5-orbits
+---
+Target orbits for week 5 (in purple), and Saturday orbits (in grey).
 ```

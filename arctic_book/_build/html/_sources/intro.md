@@ -27,12 +27,14 @@ align: center
 ```
 +++
 {flight-cat}`ec_under`
-{flight-cat}`ec_track`
-{flight-cat}`in_cloud`
-{flight-cat}`spiral`
-{flight-cat}`liquid`
-{flight-cat}`mpc`
+{flight-cat}`marine_sc`
+{flight-cat}`cb_anvil`
+{flight-cat}`melt_layer`
+{flight-cat}`altocumulus`
 {flight-cat}`cirrus`
+{flight-cat}`precip`
+{flight-cat}`mpc`
+{flight-cat}`multi`
 {flight-cat}`alomar`
 :::
 

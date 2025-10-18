@@ -34,7 +34,7 @@ categories:
     tier: "g"
   alomar:
     long_name: "ALOMAR observatory overpass"
-    tier: "a"
+    tier: "g"
   ec_track:
     long_name: "Fly along EarthCARE track"
     tier: "a"
